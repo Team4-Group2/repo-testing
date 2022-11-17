@@ -1,0 +1,3 @@
+#!/bin/bash
+#Script to welcome group2
+echo "welcome group 2"
